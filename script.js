@@ -79,7 +79,7 @@ function callback(error, response, body) {
           // var a = _s.split("\n");
           //var lines_with_word = getLinesNumberOf(_s, 'foo');
           // for (var i = 0; i < lines_with_word.length; i++) {
-          //   a = replaceLineNumber(a, lines_with_word[i],str);
+          //   a = replaceLineNumber(a, lines_with_word[i],'bar');
           // }
           //a = joinLinesArray(a)
 
